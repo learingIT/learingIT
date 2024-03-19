@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 protfolio : https://learingIT.github.io/portfolio/
+protfolio : https://learingIT.github.io/front.html/
 
 <!---
 learingIT/learingIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
