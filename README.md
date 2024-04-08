@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 protfolio : https://learingIT.github.io/portfolio/
-protfolio : https://learingIT.github.io/front.html/
-https://github.com/learingIT/css-creaction.git
+https://github.com/learingIT/Trading-view.git
 
 
 <!---
