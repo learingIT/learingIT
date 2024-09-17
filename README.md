@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 protfolio : https://learingIT.github.io/portfolio/
-trading view :http://127.0.0.1:5500/front.html
-tata ipl : http://127.0.0.1:5501/front.html
 
 <!---
 learingIT/learingIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
