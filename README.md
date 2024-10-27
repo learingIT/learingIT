@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 protfolio : https://learingIT.github.io/portfolio/
-raj-portfilo :https://github.com/learingIT/Raj-portfolio.git
+raj-portfilo: https://github.com/learingIT/Rajwant-Portfolio.git
 
 <!---
 learingIT/learingIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
